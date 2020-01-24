@@ -1,0 +1,6 @@
+{
+    "MONGO_URL": "mongodb+srv://KUMAR_DIVYA:d8VNtTVgbv9dozO1@cluster0-gxynb.mongodb.net/MernProject?retryWrites=true&w=majority",
+    "SECRET_KEY":"SECRET_KEY",
+    "GITHUB_KEY":"39b1bea69edadcd06a95",
+    "GITHUB_SECRET":"2588cfb409c31bdb0515a82c3c396118342424b7"
+}
